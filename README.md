@@ -1,4 +1,4 @@
-Northstar
+
 Northstar is a dark-mode, mobile-first personal dashboard prototype built as a single standalone HTML file.
 
 What it is

@@ -1,23 +1,39 @@
+# Northstar
 
-Northstar is a dark-mode, mobile-first personal dashboard prototype built as a single standalone HTML file.
+Northstar is a dark-mode, mobile-first personal dashboard prototype.
 
-What it is
-A web-based app shell with a loading screen, header, bottom navigation, and tabbed views.
+## Overview
 
-Designed to be simple to run in a browser with no build step.
+This repository contains a single-file HTML prototype that is meant for visual and interaction testing.
+It is intentionally simple to run and easy to preview in a browser.
 
-Intended for iterative refinement of layout, interactions, and visual hierarchy.
+## Current status
 
-Current build
-Single-file prototype.
+- Prototype stage.
+- Single standalone HTML entry point.
+- Built for iterative design and layout refinement.
 
-Version: 1.0.2.5 preview-safe branch.
+## Usage
 
-Entry file: index.html.
+Place `index.html` in the root of the repository and open it in a browser or publish it with GitHub Pages.
 
-How to run
-Put index.html in the root of a GitHub repository.
+## Repository layout
 
-Enable GitHub Pages from the repository settings.
+```text
+index.html
+README.md
+```
 
-Open the published link in a mobile browser or desktop browser.
+## License
+
+All rights reserved.
+
+Copyright (c) 2026 Northstar
+
+No part of this repository may be copied, modified, distributed, or reused without explicit permission from the author.
+
+## Notes
+
+- This project is a work in progress.
+- The design and code are subject to change.
+- Keep any secrets, API keys, or private configuration out of the repository.
